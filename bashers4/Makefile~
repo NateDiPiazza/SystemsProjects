@@ -1,0 +1,6 @@
+
+.IGNORE:
+.SILENT:
+
+bank: bank.c
+	gcc -o bank bank.c -Wall -g

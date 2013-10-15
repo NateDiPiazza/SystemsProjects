@@ -1,0 +1,18 @@
+Nate DiPiazza
+ndipiazz
+
+threadperf readme
+
+Performance measures:
+
+  1 million processes
+  real 2m51.111s
+  user 0m1.801s
+  sys 1m6.256s
+
+  1 million threads
+  real 0m37.489s
+  user 0m2.883s
+  sys 0m24.557s
+
+  on mumble machines
